@@ -1,0 +1,20 @@
+# --- Obsidian: קבצים תלויי-מכשיר שלא כדאי לסנכרן ---
+# מצב חלון העבודה (נפרד לכל מכשיר, גורם לקונפליקטים)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# מטמון וקבצים זמניים
+.obsidian/cache
+.obsidian/plugins/*/data.json
+.trash/
+
+# --- מערכת הפעלה ---
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# --- שונות ---
+*.tmp
